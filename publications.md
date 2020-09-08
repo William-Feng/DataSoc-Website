@@ -54,7 +54,7 @@ introduction: You can find all of our publications here!
                         so much so that it can feel super daunting and confusing. <br> If this is how you feel (and even if it’s not) 
                         - this First Year Guide is for you! </p>
                       <br>
-                      <a href="first-year-guide" class="button is-primary">View</a>
+                      <a href="first-year-guide" class="button is-info">View</a>
                     </div>
                   </div>
                 </article>
@@ -75,7 +75,7 @@ introduction: You can find all of our publications here!
                     <h1 class="title post-title">{{ news.name }} </h1>
                     <p class="post-excerpt"> {{ news.excerpt }} </p>
                     <br>
-                    <a href="{{ news.link }}" target="_blank" class="button is-primary">Read More</a>
+                    <a href="{{ news.link }}" target="_blank" class="button is-info">Read More</a>
                   </div>
                 </article>
               </div>
@@ -93,7 +93,7 @@ introduction: You can find all of our publications here!
                     <h1 class="title post-title">{{ news.name }}</h1>
                     <p class="post-excerpt">{{ news.excerpt }} <br> </p>
                     <br>
-                    <a href="{{ news.link }}" target="_blank" class="button is-primary">Read More</a>
+                    <a href="{{ news.link }}" target="_blank" class="button is-info">Read More</a>
                   </div>
                 </article>
               </div>
